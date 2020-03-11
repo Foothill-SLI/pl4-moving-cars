@@ -1,0 +1,4 @@
+videos/*
+!videos/README.md
+test_counting/*
+!test_counting/README.md
